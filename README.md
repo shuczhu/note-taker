@@ -10,4 +10,6 @@ Create a note by entering on in the text field the title and the text of your no
 Questions? You can reach me at shuzhufilms@gmail.com.
 Github link: https://github.com/shuczhu
 
-![image](https://img.shields.io/badge/license-MIT-blue.svg)
+## Screenshot
+![image](https://user-images.githubusercontent.com/108253013/192723273-cb729b0a-b5f1-4a6d-8f8b-4d5971052ddc.png)
+
